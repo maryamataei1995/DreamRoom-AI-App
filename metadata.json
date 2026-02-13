@@ -1,0 +1,7 @@
+{
+  "name": "DreamRoom AI",
+  "description": "An interactive AI-powered interior redesign application that allows users to transform their rooms with various styles, iterative chat edits, and material transfers.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
